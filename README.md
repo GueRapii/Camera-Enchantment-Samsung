@@ -42,7 +42,7 @@ Join our Telegram channel for updates or contact the developers directly:
 [![GueRapii](https://img.shields.io/badge/Chat-GueRapii-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/GueRapii)
 [![Gustavoppw](https://img.shields.io/badge/Chat-Gustavoppw-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Gustavoppw)
 
-## � Disclaimer
+## ⚠️ Disclaimer
 
 **Hardware Limits Apply.** This module unlocks software flags. If your device's ISP (Image Signal Processor) or Sensor does not physically support 8K or 120FPS, the options may appear but fail to record or cause the camera app to crash. Use with caution.
 

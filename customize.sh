@@ -7,7 +7,7 @@
 
 ui_print "  _______________________________________________  "
 ui_print " |                                               | "
-ui_print " |      📸 Universal Camera Enabler v1.3 📸      | "
+ui_print " |      📸 Universal Camera Enabler v1.2 📸      | "
 ui_print " |      ✨ Dynamic Patching for Samsung ✨       | "
 ui_print " |_______________________________________________| "
 ui_print " "

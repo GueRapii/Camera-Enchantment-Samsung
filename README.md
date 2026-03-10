@@ -52,7 +52,7 @@ Simply remove the module via Magisk and reboot. The `uninstall.sh` script will e
 
 ## 📜 License
 
-Copyright © 2024 GueRapii & Gustavoppw (@randommodules).
+Copyright © 2026 GueRapii & Gustavoppw (@randommodules).
 This module is free to use. However, **copying, redistributing, or using this code in other scripts requires explicit permission** from the developer and must include proper attribution.
 
 ---

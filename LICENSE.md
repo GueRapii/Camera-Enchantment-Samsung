@@ -1,4 +1,4 @@
-Copyright (c) 2024 GueRapii & Gustavoppw (@randommodules)
+Copyright (c) 2026 GueRapii & Gustavoppw (@randommodules)
 
 TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 

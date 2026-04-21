@@ -25,6 +25,7 @@ This module performs dynamic patching on `camera-feature.xml` to enable:
 
 *   **Device:** Samsung (Strictly enforced via `ro.product.brand` check).
 *   **Root:** Magisk or KernelSU installed.
+* **Mandatory Modules:** You must have either [MagicMount](https://github.com/KernelSU-Modules-Repo/magic_mount_rs/releases/) or [OverlayFS](https://github.com/KernelSU-Modules-Repo/meta-overlayfs/releases/) installed to ensure system file patching works correctly.
 *   **OS:** Android-based Samsung OneUI.
 
 ## 🚀 Installation

@@ -31,7 +31,7 @@ This module performs dynamic patching on `camera-feature.xml` to enable:
 ## 🚀 Installation
 
 1.  Download the module zip.
-2.  Install via Magisk App / KernelSU.
+2.  Install via Magisk App / KernelSU (you have to turn off Umount modules In Camera App (com.sec.android.app.camera) if using KernelSu).
 3.  Reboot your device.
 4.  **Note:** The module automatically clears Camera app data during installation to apply new configurations.
 

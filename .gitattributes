@@ -1,0 +1,5 @@
+# Memaksa semua file teks menggunakan LF
+* text=auto eol=lf
+
+# Aturan spesifik untuk file shell script agar selalu LF
+*.sh text eol=lf

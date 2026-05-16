@@ -20,6 +20,7 @@ This module performs dynamic patching on `camera-feature.xml` to enable:
 *   **🛠️ Smart Patching:**
     *   Clones your system's original XML to ensure compatibility.
     *   Automatically disables conflicting features (like VDIS or Object Tracking) on high-bandwidth modes (8K/120FPS) to prevent crashes.
+*   **💡 Flash On UltraWide Camera**
 
 ## ⚠️ Requirements
 

@@ -108,7 +108,15 @@ patch_cam_feature "SUPPORT_PRO_VIDEO_WIDE_LENS_120FPS" '<local name="SUPPORT_PRO
 patch_cam_feature "SUPPORT_PRO_VIDEO_WIDE_LENS_60FPS" '<local name="SUPPORT_PRO_VIDEO_WIDE_LENS_60FPS" value="true"/>'
 sleep 1
 
-ui_print "🔐 Optimizing file permissions..."
+ui_print "🔦 Enabling Flash for Wide Lens..."
+if grep -q 'name="SUPPORT_FLASH_IN_WIDE_LENS"' "$CAM_XML"; then
+    sed -i '/name="SUPPORT_FLASH_IN_WIDE_LENS"/s/value="false"/value="true"/g' "$CAM_XML"
+else
+    sed -i '/<\/resources>/i \    <local name="SUPPORT_FLASH_IN_WIDE_LENS" value="true"/>' "$CAM_XML"
+fi
+sleep 1
+
+ui_print "� Optimizing file permissions..."
 sleep 1
 set_perm "$CAM_XML" 0 0 0644
 

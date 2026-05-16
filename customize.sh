@@ -116,7 +116,7 @@ else
 fi
 sleep 1
 
-ui_print "� Optimizing file permissions..."
+ui_print " Optimizing file permissions..."
 sleep 1
 set_perm "$CAM_XML" 0 0 0644
 

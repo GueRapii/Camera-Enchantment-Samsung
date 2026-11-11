@@ -48,6 +48,8 @@ Join our Telegram channel for updates or contact the developers directly:
 
 **Hardware Limits Apply.** This module unlocks software flags. If your device's ISP (Image Signal Processor) or Sensor does not physically support 8K or 120FPS, the options may appear but fail to record or cause the camera app to crash. Use with caution.
 
+**💣 IF YOU USING TEMPROOT**. Not Help
+
 ## 🛠️ Uninstallation
 
 Simply remove the module via Magisk and reboot. The `uninstall.sh` script will ensure your camera settings are reverted and data is cleared to restore default behavior.
